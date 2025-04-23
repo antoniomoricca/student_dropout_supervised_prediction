@@ -1,5 +1,5 @@
 # Student Dropout Detection - Supervised Learning Approach
-Applying supervised learning to predict student dropout using neural network and XGBoost. It is a binary classification problem with an unbalanced dataset (class 0 --> dropout students, underrepresented, 15% of the total).
+Applying supervised learning to predict student dropout using neural network and XGBoost. It is a binary classification problem with an imbalanced dataset (class 0 --> dropout students, underrepresented, 15% of the total).
 
 ## Introduction
 
